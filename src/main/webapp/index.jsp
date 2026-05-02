@@ -75,7 +75,7 @@
 <div class="bg"></div>
 
 <div class="box">
-    <h1 id="text">Hello Crazy World 🌍</h1>
+    <h1 id="text">Welcome to iare</h1>
     <button onclick="changeText()">Click Me 🔥</button>
 </div>
 
